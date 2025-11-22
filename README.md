@@ -150,6 +150,7 @@ npx expo build:android
 # Build for iOS
 npx expo build:ios
 ```
+[apk url](https://drive.google.com/drive/folders/1INVRBP3ay6Kar26HsFfHcYV3PDWWiSKa)
 # NOte: 
 I prioritized a fully functional app over test coverage due to time constraints. The app demonstrates all required features working perfectly.
 ## 📝 API Integration (Next Steps)
